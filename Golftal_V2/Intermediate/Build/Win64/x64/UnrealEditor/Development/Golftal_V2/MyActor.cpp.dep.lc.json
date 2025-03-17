@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\louis\\documents\\github\\golftal_v2\\source\\golftal_v2\\private\\myactor.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\louis\\documents\\github\\golftal_v2\\intermediate\\build\\win64\\x64\\golftal_v2editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\louis\\documents\\github\\golftal_v2\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\golftal_v2\\definitions.golftal_v2.h",
+            "c:\\users\\louis\\documents\\github\\golftal_v2\\source\\golftal_v2\\public\\myactor.h",
+            "c:\\users\\louis\\documents\\github\\golftal_v2\\intermediate\\build\\win64\\unrealeditor\\inc\\golftal_v2\\uht\\myactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\louis\\documents\\github\\golftal_v2\\intermediate\\build\\win64\\unrealeditor\\inc\\golftal_v2\\uht\\golftal_v2gamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\louis\\documents\\github\\golftal_v2\\intermediate\\build\\win64\\x64\\golftal_v2editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\louis\\documents\\github\\golftal_v2\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\golftal_v2\\definitions.golftal_v2.h",
+            "c:\\users\\louis\\documents\\github\\golftal_v2\\source\\golftal_v2\\golftal_v2gamemode.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\louis\\documents\\github\\golftal_v2\\intermediate\\build\\win64\\unrealeditor\\inc\\golftal_v2\\uht\\golftal_v2gamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

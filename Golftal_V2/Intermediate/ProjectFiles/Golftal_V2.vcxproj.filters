@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Golftal_V2.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Golftal_V2.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Golftal_V2Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\Golftal_V2.sln.DotSettings.user" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Golftal_V2">
+      <UniqueIdentifier>{4AADFD92-E291-3AA8-B27C-7C7F8D366B7C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Golftal_V2\Golftal_V2.Build.cs">
+      <Filter>Source\Golftal_V2</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Golftal_V2\Golftal_V2.cpp">
+      <Filter>Source\Golftal_V2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Golftal_V2\Golftal_V2.h">
+      <Filter>Source\Golftal_V2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Golftal_V2\Golftal_V2Character.cpp">
+      <Filter>Source\Golftal_V2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Golftal_V2\Golftal_V2Character.h">
+      <Filter>Source\Golftal_V2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Golftal_V2\Golftal_V2GameMode.cpp">
+      <Filter>Source\Golftal_V2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Golftal_V2\Golftal_V2GameMode.h">
+      <Filter>Source\Golftal_V2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Golftal_V2\Golftal_V2PickUpComponent.cpp">
+      <Filter>Source\Golftal_V2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Golftal_V2\Golftal_V2PickUpComponent.h">
+      <Filter>Source\Golftal_V2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Golftal_V2\Golftal_V2Projectile.cpp">
+      <Filter>Source\Golftal_V2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Golftal_V2\Golftal_V2Projectile.h">
+      <Filter>Source\Golftal_V2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Golftal_V2\Golftal_V2WeaponComponent.cpp">
+      <Filter>Source\Golftal_V2</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Golftal_V2\Golftal_V2WeaponComponent.h">
+      <Filter>Source\Golftal_V2</Filter>
+    </ClCompile>
+    <Filter Include="Source\Golftal_V2\Private">
+      <UniqueIdentifier>{E418BDF5-CCB2-34A7-B676-518FFC6A16CF}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Golftal_V2\Private\MyActor.cpp">
+      <Filter>Source\Golftal_V2\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Golftal_V2\Public">
+      <UniqueIdentifier>{E72595AA-724E-33C9-A764-C87B19A0E87F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Golftal_V2\Public\MyActor.h">
+      <Filter>Source\Golftal_V2\Public</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

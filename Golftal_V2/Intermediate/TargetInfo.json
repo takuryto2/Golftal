@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Golftal_V2",
+			"Path": "..\\Source\\Golftal_V2.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Golftal_V2Editor",
+			"Path": "..\\Source\\Golftal_V2Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
